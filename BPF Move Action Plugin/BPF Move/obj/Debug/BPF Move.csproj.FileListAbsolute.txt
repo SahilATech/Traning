@@ -1,0 +1,29 @@
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\BPF Move.dll.config
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\BPF Move.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\BPF Move.pdb
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\System.Net.Http.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\obj\Debug\BPF Move.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\obj\Debug\BPF Move.csproj.CopyComplete
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\obj\Debug\BPF Move.dll
+C:\Users\Sahil\source\repos\BPF Move\BPF Move\obj\Debug\BPF Move.pdb

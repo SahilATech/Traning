@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPF Move Action Plugin", "BPF Move\BPF Move Action Plugin.csproj", "{783D9BDB-6951-4FD1-AAA1-DC46C80A91EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783D9BDB-6951-4FD1-AAA1-DC46C80A91EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783D9BDB-6951-4FD1-AAA1-DC46C80A91EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783D9BDB-6951-4FD1-AAA1-DC46C80A91EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783D9BDB-6951-4FD1-AAA1-DC46C80A91EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA60D5F-B786-4482-85BE-650C1AB4DEB0}
+	EndGlobalSection
+EndGlobal

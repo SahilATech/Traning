@@ -1,0 +1,14 @@
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\d365_data_consle.exe.config
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\d365_data_consle.exe
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\d365_data_consle.pdb
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\obj\Debug\d365_data_consle.csproj.AssemblyReference.cache
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\obj\Debug\d365_data_consle.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\obj\Debug\d365_data_consle.csproj.CopyComplete
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\obj\Debug\d365_data_consle.exe
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\obj\Debug\d365_data_consle.pdb
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Sahil\source\repos\d365_data_consle\d365_data_consle\bin\Debug\System.Net.Http.Formatting.xml

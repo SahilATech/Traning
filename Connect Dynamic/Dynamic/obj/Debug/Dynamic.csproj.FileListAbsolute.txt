@@ -1,0 +1,10 @@
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.AssemblyReference.cache
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Sahil\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CopyComplete
