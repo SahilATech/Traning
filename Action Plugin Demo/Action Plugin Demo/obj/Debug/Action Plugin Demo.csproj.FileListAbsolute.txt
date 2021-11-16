@@ -1,0 +1,13 @@
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\bin\Debug\Action Plugin Demo.dll
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\bin\Debug\Action Plugin Demo.pdb
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\obj\Debug\Action Plugin Demo.csproj.CoreCompileInputs.cache
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\obj\Debug\Action Plugin Demo.csproj.CopyComplete
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\obj\Debug\Action Plugin Demo.dll
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\obj\Debug\Action Plugin Demo.pdb
+C:\Users\Sahil\source\repos\Action Plugin Demo\Action Plugin Demo\obj\Debug\Action Plugin Demo.csproj.AssemblyReference.cache
